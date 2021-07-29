@@ -1,0 +1,33 @@
+
+img[alt=shinylogo] { width: 100px; height: 100px }
+img[alt=fbreflogo] { width: 15%; height: 15% }
+
+.vis-timeline {
+  background-color: #591721;
+  border-color: #591721;
+}
+
+.vis-foreground {
+  background-color: #591721;
+  color: white;
+}
+
+.vis-item {
+  border-color: white;
+  background-color: #591721;
+  color: white;
+}
+
+.vis-item.vis-selected {
+  border-color: #12a5c7;
+  background-color: #e88f04;
+  color: black
+}
+
+.vis-time-axis .vis-text {
+  color: white;
+}
+
+.vis-labelset .vis-label{
+color: white;
+}

@@ -39,10 +39,10 @@ vignettes/*.pdf
 .Renviron
 
 # Csv
-.csv
+*.csv
 
 # Secrets
-.secret
+*.secret
 
 # Connect to Shinyapps.io
-rsconnect/
+futven/rsconnect/
